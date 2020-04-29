@@ -1,0 +1,5 @@
+﻿  project game 2.cpp
+D:\dung dep trai\cuder\project game 2\project game 2\project game 2.cpp(62,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\dung dep trai\cuder\project game 2\project game 2\project game 2.cpp(72,23): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\dung dep trai\cuder\project game 2\project game 2\project game 2.cpp(184,11): warning C4553: '==': result of expression not used; did you intend '='?
+  project game 2.vcxproj -> D:\dung dep trai\cuder\project game 2\Debug\project game 2.exe
